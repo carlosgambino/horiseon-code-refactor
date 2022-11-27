@@ -22,7 +22,7 @@ The links in the header will take you to the relevant sections in the web page.
 
 ## Screenshot
 
-![alt text](./assets/images/Screenshot.png)
+![alt text](./assets/images/Screenshot.jpg)
 
 ## License
 
